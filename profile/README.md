@@ -13,3 +13,7 @@ Here at **datatreehouse.org**, we're two developers who climbed up into the bran
 This is our shared workshop - a place where we build things, break things, and figure out how it all works. We're drawn to **Streamlit apps**, **data pipelines**, **scraping projects**, and whatever else catches our eye on any given week. If it's interesting, it's fair game.
 
 We're not here because we have all the answers. We're here because we love the questions.
+
+---
+
+[![Buy us a coffee](https://img.shields.io/badge/SnapScan-buy%20us%20a%20coffee%20☕-407cc5?style=flat-square)](https://pos.snapscan.io/qr/Ew6rBAsV)

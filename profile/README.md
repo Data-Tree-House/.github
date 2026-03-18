@@ -1,12 +1,15 @@
-## Hi there 👋
+![banner](https://github.com/microsoft/.github/blob/main/images/banner.png)
 
-<!--
+[![GitHub Org](https://img.shields.io/badge/GitHub-datatreehouse-F36441?style=flat-square&logo=github)](https://github.com/datatreehouse)
+![Built with curiosity](https://img.shields.io/badge/built%20with-curiosity-F6825A?style=flat-square)
+![Status](https://img.shields.io/badge/status-always%20exploring-203B56?style=flat-square)
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Welcome 👋
+
+Here at **datatreehouse.org**, we're two developers who climbed up into the branches and decided to stay a while.
+
+This is our shared workshop - a place where we build things, break things, and figure out how it all works. We're drawn to **Streamlit apps**, **data pipelines**, **scraping projects**, and whatever else catches our eye on any given week. If it's interesting, it's fair game.
+
+We're not here because we have all the answers. We're here because we love the questions.

@@ -1,4 +1,4 @@
-![banner](https://github.com/microsoft/.github/blob/main/images/banner.png)
+![banner](https://github.com/data-tree-house/.github/blob/main/images/banner.png)
 
 [![GitHub Org](https://img.shields.io/badge/GitHub-datatreehouse-F36441?style=flat-square&logo=github)](https://github.com/datatreehouse)
 ![Built with curiosity](https://img.shields.io/badge/built%20with-curiosity-F6825A?style=flat-square)
